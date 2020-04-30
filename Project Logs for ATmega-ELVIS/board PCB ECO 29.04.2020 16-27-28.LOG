@@ -1,0 +1,67 @@
+Added Pin To Net: NetName=7SEG_CLK Pin=X3-56
+Added Net: Name=7SEG_CLK
+Added Pin To Net: NetName=7SEG_DATA Pin=X3-55
+Added Net: Name=7SEG_DATA
+Added Pin To Net: NetName=BTN1 Pin=X3-60
+Added Net: Name=BTN1
+Added Pin To Net: NetName=BTN2 Pin=X3-59
+Added Net: Name=BTN2
+Added Pin To Net: NetName=BTN3 Pin=X3-58
+Added Net: Name=BTN3
+Added Pin To Net: NetName=ENCA Pin=X3-37
+Added Net: Name=ENCA
+Added Pin To Net: NetName=ENCB Pin=X3-36
+Added Net: Name=ENCB
+Added Pin To Net: NetName=LCD_CS1 Pin=X3-52
+Added Net: Name=LCD_CS1
+Added Pin To Net: NetName=LCD_CS2 Pin=X3-53
+Added Net: Name=LCD_CS2
+Added Pin To Net: NetName=LCD_DB0 Pin=X3-44
+Added Net: Name=LCD_DB0
+Added Pin To Net: NetName=LCD_DB1 Pin=X3-45
+Added Net: Name=LCD_DB1
+Added Pin To Net: NetName=LCD_DB2 Pin=X3-46
+Added Net: Name=LCD_DB2
+Added Pin To Net: NetName=LCD_DB3 Pin=X3-47
+Added Net: Name=LCD_DB3
+Added Pin To Net: NetName=LCD_DB4 Pin=X3-48
+Added Net: Name=LCD_DB4
+Added Pin To Net: NetName=LCD_DB5 Pin=X3-49
+Added Net: Name=LCD_DB5
+Added Pin To Net: NetName=LCD_DB6 Pin=X3-50
+Added Net: Name=LCD_DB6
+Added Pin To Net: NetName=LCD_DB7 Pin=X3-51
+Added Net: Name=LCD_DB7
+Added Pin To Net: NetName=LCD_DI Pin=X3-41
+Added Net: Name=LCD_DI
+Added Pin To Net: NetName=LCD_OE Pin=X3-43
+Added Net: Name=LCD_OE
+Added Pin To Net: NetName=LCD_RST Pin=X3-54
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=LCD_RW Pin=X3-42
+Added Net: Name=LCD_RW
+Added Pin To Net: NetName=MISO Pin=D1-22
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=D1-21
+Added Pin To Net: NetName=MOSI Pin=X3-40
+Added Net: Name=MOSI
+Added Pin To Net: NetName=nSS Pin=D1-19
+Added Pin To Net: NetName=nSS Pin=X3-39
+Added Net: Name=nSS
+Added Pin To Net: NetName=RX0 Pin=D1-2
+Added Pin To Net: NetName=RX0 Pin=X3-26
+Added Net: Name=RX0
+Added Pin To Net: NetName=SCK Pin=D1-20
+Added Pin To Net: NetName=SCK Pin=X3-38
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=D1-43
+Added Pin To Net: NetName=SCL Pin=X1-36
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=D1-44
+Added Pin To Net: NetName=SDA Pin=X1-27
+Added Net: Name=SDA
+Added Pin To Net: NetName=SOUND Pin=X3-57
+Added Net: Name=SOUND
+Added Pin To Net: NetName=TX0 Pin=D1-3
+Added Pin To Net: NetName=TX0 Pin=X3-27
+Added Net: Name=TX0

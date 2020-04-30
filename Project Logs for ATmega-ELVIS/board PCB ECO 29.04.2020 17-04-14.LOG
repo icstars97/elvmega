@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ENCA Pin=D1-6
+Removed Pin From Net: NetName=ENCB Pin=D1-7
+Added Pin To Net: NetName=ENCB Pin=D1-6
+Added Pin To Net: NetName=ENCA Pin=D1-7

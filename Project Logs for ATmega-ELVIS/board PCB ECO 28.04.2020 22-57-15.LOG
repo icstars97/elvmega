@@ -1,0 +1,11 @@
+Change component parameters: Designator = "X1"; Footprint = "Connector"; UniqueID = "\QJNQDCRJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10 k"; VariantName = "[No Variations]"
+Added Component: Designator=X3(Connector)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=X1-0
+Added Pin To Net: NetName=VCC3.3 Pin=X1-62
+Added Pin To Net: NetName=GND Pin=X3-0
+Added Pin To Net: NetName=VCC3.3 Pin=X3-62
+Added Member To Class: ClassName=main Member=Component X1 CONNECTOR_TOP
+Added Member To Class: ClassName=main Member=Component X3 CONNECTOR_BOTTOM

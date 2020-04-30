@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=D1-98
+Added Component: Designator=J1(JUMPER_SWITCH_2S)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BTN3 Pin=D1-23
+Added Pin To Net: NetName=BTN2 Pin=D1-24
+Added Pin To Net: NetName=BTN1 Pin=D1-25
+Added Pin To Net: NetName=VCC3.3 Pin=J1-1
+Added Pin To Net: NetName=AI Pin=J1-2
+Added Net: Name=AI
+Added Pin To Net: NetName=NetD1_98 Pin=D1-98
+Added Pin To Net: NetName=NetD1_98 Pin=J1-0
+Added Net: Name=NetD1_98
+Added Member To Class: ClassName=main Member=Component J1 JUMPER_SWITCH_2S

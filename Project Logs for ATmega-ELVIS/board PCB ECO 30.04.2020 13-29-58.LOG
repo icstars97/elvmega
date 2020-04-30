@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=LCD_CS2 Pin=D1-63
+Removed Pin From Net: NetName=LCD_CS1 Pin=D1-64
+Removed Pin From Net: NetName=KC3 Pin=D1-65
+Removed Pin From Net: NetName=KC1 Pin=D1-66
+Removed Pin From Net: NetName=KC2 Pin=D1-67
+Removed Pin From Net: NetName=KR1 Pin=D1-68
+Removed Pin From Net: NetName=KR4 Pin=D1-69
+Removed Pin From Net: NetName=KR3 Pin=D1-70
+Added Pin To Net: NetName=LCD_CS1 Pin=D1-63
+Added Pin To Net: NetName=KC3 Pin=D1-64
+Added Pin To Net: NetName=KC1 Pin=D1-65
+Added Pin To Net: NetName=KC2 Pin=D1-66
+Added Pin To Net: NetName=KR1 Pin=D1-67
+Added Pin To Net: NetName=KR4 Pin=D1-68
+Added Pin To Net: NetName=KR3 Pin=D1-69

@@ -1,0 +1,14 @@
+Change Net Name : Old Net Name=AI New Net Name=ADC_REF
+Change Net Name : Old Net Name=NetD1_98 New Net Name=AREF
+Added Pin To Net: NetName=ADC0 Pin=D1-97
+Added Pin To Net: NetName=ADC0 Pin=X3-28
+Added Net: Name=ADC0
+Added Pin To Net: NetName=ADC1 Pin=D1-96
+Added Pin To Net: NetName=ADC1 Pin=X3-29
+Added Net: Name=ADC1
+Added Pin To Net: NetName=ADC2 Pin=D1-95
+Added Pin To Net: NetName=ADC2 Pin=X3-30
+Added Net: Name=ADC2
+Added Pin To Net: NetName=ADC3 Pin=D1-94
+Added Pin To Net: NetName=ADC3 Pin=X1-33
+Added Net: Name=ADC3
